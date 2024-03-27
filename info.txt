@@ -2,3 +2,4 @@ Maddu Madhavi
 Bangalore
 IBM company
 Developer
+Git, Java, Jdbc, Hibernate, Springframework, SQL
